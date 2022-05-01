@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ozzydo
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Front-end developing.
-- 📫 How to reach me mee.oguzhan.dogan@gmail.com
+- 📫 How to reach me mee.oguzhan.dogan@gmail.com and https://www.linkedin.com/in/oguzhan-dogan/
