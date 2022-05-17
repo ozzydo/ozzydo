@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ozzydo
+- 👋 Hi, I’m Oğuzhan Doğan @ozzydo
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Front-End Web Development.
 - 📫 How to reach me on [linkedin](https://www.linkedin.com/in/oguzhan-dogan/) and mee.oguzhan.dogan@gmail.com 
